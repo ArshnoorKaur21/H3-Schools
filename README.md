@@ -2,8 +2,8 @@
 > https://github.com/ArshnoorKaur21/H3-Schools
 
 
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/alifiyakapasi07/W3Schools_Clone)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/ArshnoorKaur21/H3-Schools)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/arshnoorkaur21/)
 
 
 ## Features 📋
