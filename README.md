@@ -1,4 +1,4 @@
-# W3Schools_Clone
+# H3-Schools
 > https://github.com/ArshnoorKaur21/H3-Schools
 
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/arshnoorkaur21/)
